@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libfactory.so -o libfactory.so CMakeFiles/factory.dir/home/linkdome/mg/jx/yolov8-seg/tensorrt_inference_yolov8pose/code/src/build.cpp.o   -L/home/linkdome/mg/jx/yolov8-seg/tensorrt_inference_yolov8pose/depends/yaml-cpp-master/build  -L/home/linkdome/mg/jx/yolov8-seg/TensorRT-8.6.1.6/targets/x86_64-linux-gnu/lib 
